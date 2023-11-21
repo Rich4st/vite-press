@@ -1,1 +1,1 @@
-import "./assets/sass/index.css"
+import "./assets/css/index.css"
